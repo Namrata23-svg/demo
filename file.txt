@@ -1,6 +1,1 @@
-line 1
-<<<<<<< HEAD
-line 1 fro feature
-=======
-line from 2344
->>>>>>> bug/23444
+line1
